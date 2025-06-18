@@ -1,0 +1,16 @@
+STRAT
+
+Introduction
+"Welcome to my Quiz about music!"
+"Test your knowledge and see what you know."
+
+Q1: "DO you like listen music?"
+A1: "Yes I like"
+A2: "I don’t usually listen to it.“
+A3: “I don’t like listen music."
+
+Q2: "What is your favorite type of music?“
+A1: “I like ... music"
+
+Q3: "Who is your favorite singer?Why?“
+A1: ”
